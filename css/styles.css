@@ -14,9 +14,22 @@ h1 {
     line-height: 40px;
   }
   header{
-    background-image: url('images/tscott.jpg');
-    border: 1px;
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: none;
   }
-  
+body{
+  text-decoration: none;
+  text-shadow: peachpuff;
+  margin-top: 40px;
+}
+  #right{
+    float: right;
+  }
+  #left{
+    float: left;
+  }
+  img{
+    float: right;
+  }
