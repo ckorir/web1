@@ -13,3 +13,10 @@ h1 {
   ul {
     line-height: 40px;
   }
+  header{
+    background-image: url('images/tscott.jpg');
+    border: 1px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  
