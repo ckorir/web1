@@ -18,23 +18,19 @@
 #body1{
   text-decoration: none;
   margin-top: 40px;
+  margin-bottom: 0px;
 }
 #body2{
   text-decoration: none;
   text-shadow: peachpuff;
   margin-top: 40px;
 }
-  #right{
-    float: right;
-  }
-  #left{
-    float: left;
-  }
+ 
   img{
     float: right;
   }
   .top {
-    border-bottom: 1px solid gray;
+    
     padding-bottom: 25px;
     padding-top: 30px;
   }
@@ -51,12 +47,8 @@
     background-size: 90%;
   }
   li{
-    display: inline-block;
-    padding: 10px;
-    margin: 5px 100px;
     border-width: 1px;
-    border-style: solid;
-    background-color:#f1f1f1;
+    display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
     text-align: center;
@@ -64,12 +56,14 @@
   li a{
     text-decoration: none;
   }
-
-  li a:hover {
-    background-color: #555;
-    color: white;
+  .navbar a{
+    padding: 25px 15px;
   }
-
-  ul{
-    background-color: #f1f1f1;
+  .navbar a:hover {
+    background-color:rosybrown;
+    color: black;
+  }
+  .navbar {
+    overflow: hidden;
+    background-color: #eee;
   }
