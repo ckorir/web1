@@ -47,7 +47,7 @@
     background-repeat: none;
     background-size: 90%;
   }
-  li{
+  .li1{
     border-width: 1px;
     display: inline-block;
     text-decoration: none;
@@ -67,18 +67,6 @@
   .navbar {
     overflow: hidden;
     background-color: rgba(188, 183, 236, 0.322);
-  }
-
-  .navbar2 a{
-    padding: 25px 15px;
-  }
-  .navbar2 a:hover {
-    background-color:rosybrown;
-    color: black;
-  }
-  .navbar2 {
-    overflow: hidden;
-    background-color: rgba(141, 173, 233, 0.274);
   }
   .p1{
     margin-right: 450px;
