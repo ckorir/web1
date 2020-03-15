@@ -1,4 +1,4 @@
-.h1 {
+h1 {
     color: blue;
     text-align: center;
   }
@@ -37,7 +37,7 @@
   }
   .top2{
     border-bottom: 1px solid gray;
-    padding-bottom: 25px;
+    padding-bottom: 40px;
     padding-top: 30px;
     border-radius: 20%;
   }
@@ -70,4 +70,7 @@
   }
   .p1{
     margin-right: 450px;
+  }
+  .p2{
+    text-align: right;
   }
