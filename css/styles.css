@@ -28,9 +28,10 @@
  
   img{
     float: right;
+    width: 10px;
   }
   .top {
-    
+    margin-right: 500px;
     padding-bottom: 25px;
     padding-top: 30px;
   }
